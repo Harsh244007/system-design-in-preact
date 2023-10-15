@@ -1,0 +1,17 @@
+[
+  "Home",
+  "DB Types SQL/NOSQL",
+  "DB Modeling",
+  "Scaling",
+  "Message Queues",
+  "DB Repliation Master/Slave",
+  "Load Balancing",
+  "Stateless vs StateFull Systems",
+  "Load Balancing in StateFull systems",
+  "Sharding",
+  "Hashing",
+  "Consistent Hashing",
+  "CAP Theroram",
+  "Q&A1",
+  "Q&A2"
+]
